@@ -1,0 +1,19 @@
+---
+title: "Education"
+format: html
+editor: visual
+---
+
+# **Education**
+
+##### [**California State Polytechnic University, Pomona 2022-Current**]{.underline}
+
+ Master of Science in Biology
+
+##### [**California State Polytechnic University, Pomona 2016--2020**]{.underline}
+
+Bachelor of Science in Biology with Botany Option
+
+![](20230515_182901.jpg){width="505"}
+
+##### [**El Camino College 2012-2016**]{.underline}

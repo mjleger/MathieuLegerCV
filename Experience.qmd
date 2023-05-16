@@ -1,0 +1,69 @@
+---
+title: "Experience"
+format: html
+editor: visual
+---
+
+# **Masters Research**
+
+Department of Biological Sciences, California State Polytechnic University, Pomona, CA.
+
+Principle Investigator: Dr. Edward Bobich
+
+Field Study of Native California Flora in Disturbed habitats
+
+# **Undergraduate Research**
+
+Department of Biological Sciences, California State Polytechnic University, Pomona, CA.
+
+Advisor: Dr. Edward Bobich
+
+Tracked physical characteristics of plant specimens
+
+Compiled data for respiration and temperature of the soil
+
+Examined photosynthesis rates
+
+Analyzed data with Excel and Sigma Plot programs
+
+# **Teaching Associate**
+
+#### Department of Biological Sciences, California State Polytechnic University, Pomona, CA.
+
+#### Course: Bio 2050 L- Form and Function in Plants Laboratory
+
+Prepared and delivered weekly lectures.
+
+Directed and assisted students to complete weekly laboratory courses.
+
+Preparation of materials required for laboratory courses.
+
+Grading of quizzes and laboratory reports
+
+#### Department of Biological Sciences, California State Polytechnic University, Pomona, CA.
+
+#### Course: Bio 1110 L- Life Science Laboratory
+
+Prepared and Delivered weekly Lectures
+
+Directed and assisted students to complete weekly laboratory courses.
+
+Preparation of materials required for laboratory courses.
+
+Grading of quizzes and laboratory reports
+
+# Volunteering
+
+Aided in the replanting of native species and removal of invasive species in the protected Madrona Marsh
+
+# Courses
+
+#### BIO 5100/L Statistics for Biologists using R
+
+Learned use of R in statistical testing
+
+Use of Quarto to render documents
+
+Able to create figures, tables, and maps using R
+
+Able to create websites using R

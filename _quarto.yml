@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "Mathieu Leger's CV"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Education.qmd
+        text: Education
+      - href: Experience.qmd
+        text: Experience
+      - href: Awards.qmd
+        text: Presentations, Certifications, and Awards
+format:
+  html:
+    theme: darkly
+    mainfont: Arial Nova Light
+    css: styles.css
+    toc: true
+
+editor: visual
+

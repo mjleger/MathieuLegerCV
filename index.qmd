@@ -1,0 +1,39 @@
+---
+title: "Mathieu Leger's CV"
+---
+
+# **Mathieu Leger**
+
+![](20220903_173807.jpg){width="381"}
+
+### **Contact Information**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Riverside, CA
+
+Cell: (310) 297-0567
+
+Email: [mjleger\@cpp.edu](mailto:mjleger@cpp.edu)
+
+### **References**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Edward Bobich, PhD
+
+Professor of Biology, Cal Poly Pomona
+
+3801 W Temple Ave, Pomona, CA 91768
+
+Building 8 Office 132
+
+[egbobich\@cpp.edu](mailto:egbobich@cpp.edu)
+
+Frank Ewers. PhD
+
+Professor of Biology, Cal Poly Pomona
+
+3801 W Temple Ave, Pomona, CA 91768
+
+fwewers\@cpp.edu
