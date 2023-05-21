@@ -12,8 +12,6 @@ title: "Mathieu Leger's CV"
 
 Riverside, CA
 
-Cell: (310) 297-0567
-
 Email: [mjleger\@cpp.edu](mailto:mjleger@cpp.edu)
 
 ### **References**
